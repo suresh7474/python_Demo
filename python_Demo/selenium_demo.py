@@ -7,7 +7,7 @@ Web_url="https://opensource-demo.orangehrmlive.com/"
 chrdriver=webdriver.Chrome(chrome_intance)
 chrdriver.get(Web_url)
 chrdriver.maximize_window()
-print("Java Branch")
+print("Java B")
 
 #application fill informatin point to exact location
 username=chrdriver.find_element_by_id("txtUsername")
